@@ -1,0 +1,21 @@
+body {
+  background-color: #1B2834;
+  color: white;
+}
+
+ul {
+  list-style: none;
+}
+
+img {
+  max-width: 100%;
+}
+
+.red {
+  color: red;
+}
+
+.card {
+  padding: 2.5rem;
+  background-color: #121C2A;
+}
